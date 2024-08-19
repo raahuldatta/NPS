@@ -1,0 +1,4 @@
+*Introduction to the Laboratory and Cisco Packet Tracer*
+
+In this laboratory session, we will explore the basics of networking using Cisco Packet Tracer, a versatile network simulation tool developed by Cisco. Cisco Packet Tracer allows users to create network topologies, configure devices, and simulate various network scenarios in a virtual environment. 
+By using this tool, you can visualize the network's behavior and troubleshoot issues without the need for physical hardware, making it an essential resource for anyone learning or working in the field of networking.
